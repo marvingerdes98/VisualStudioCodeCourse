@@ -1,6 +1,6 @@
 body {
     font-size: 40px;
-    background-color: brown;
+    background-color: rgb(165, 91, 42);
     display: flex;
     flex-wrap: wrap;
     align-items: center;
