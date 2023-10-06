@@ -1,4 +1,4 @@
-let myNumber = 7;
+let myNumber = 9;
 
 console.log(myNumber);
 String
